@@ -23,9 +23,9 @@ Para executar este projeto, é necessário ter instalado as seguintes biblioteca
 
 Você pode instalar essas dependências via pip usando o seguinte comando:
 
-```bash
-pip install pygame pygame_gui
-exit
+bash
+    pip install pygame pygame_gui
+
 
 # Autores
 
