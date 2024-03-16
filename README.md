@@ -25,7 +25,7 @@ Você pode instalar essas dependências via pip usando o seguinte comando:
 
 ```bash
 pip install pygame pygame_gui
-
+```
 
 ## Autores
 
