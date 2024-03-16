@@ -2,7 +2,7 @@
 
 # Sudoku Game Project
 
-Este é um projeto de implementação de um jogo de Sudoku em Python utilizando a biblioteca Pygame.
+Este é um projeto de implementação de um jogo de Sudoku em Python utilizando a biblioteca Pygame. O projeto Foi feito para a disciplina de Engenharia de software com a orientação do professor: Arturo Hernandez Dominguez
 
 ## Visão Geral
 
