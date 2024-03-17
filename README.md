@@ -29,7 +29,7 @@ pip install pygame pygame_gui
 
 ## Demostração de funcionamento
 
-https://drive.google.com/file/d/1x5UcBjdWDDOiuTfA4Me5AsShSbhmwx2y/preview
+(https://drive.google.com/file/d/1x5UcBjdWDDOiuTfA4Me5AsShSbhmwx2y/preview)
 
 
 ## Autores
