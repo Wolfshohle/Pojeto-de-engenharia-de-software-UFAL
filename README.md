@@ -29,10 +29,9 @@ pip install pygame pygame_gui
 
 ## Demostração de funcionamento
 
-<video width="640" height="360" controls>
-  <source src="Demo.mkv" type="video/mkv">
-  Seu navegador não suporta a tag de vídeo.
-</video>
+```bash
+https://drive.google.com/file/d/1x5UcBjdWDDOiuTfA4Me5AsShSbhmwx2y/preview
+```
 
 
 ## Autores
